@@ -1,0 +1,24 @@
+{
+    "token": "DEIN_TOKEN",
+    "database_host": "host",
+    "database_port": "port",
+    "database_user": "user",
+    "database_password": "password",
+    "database_table": "table",
+
+    "database_successnotify": true,
+    "database_successmessage": "Datenbank erfolgreich verbunden! ... Bot gestartet!",
+    
+    "guild_ID": "DEINE_GUILD_ID",
+
+    "command_name": "gutschein",
+    "command_desc": "Erstelle einen Gutscheincode",
+        "option_name": "value",
+        "option_desc": "Wie viele Coins sollen gutgeschrieben werden?",
+    "command_authrole_ID": "DEINE_ROLLEN_ID",
+
+    "logchannel_ID": "DEINE_CHANNEL_ID",
+    "servername": "DeinServerName",
+    "color": "PURPLE",
+    "noperms_message": "Keine Rechte!"
+}
